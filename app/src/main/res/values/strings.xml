@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomDialog</string>
+    <string name="FirstNameHint">First Name</string>
+    <string name="LastNameHint">Last Name</string>
+</resources>
